@@ -5,8 +5,8 @@ This repository is for the Experiment Section of the paper: "Federated PCA on Gr
 
 Authors: Tung-Anh Nguyen, Long Tan Le, Tuan Dung Nguyen, Wei Bao, Suranga Seneviratne, Choong Seon Hong, Nguyen H. Tran
 
-Link paper:
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10593810
+Link paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10593810
+
 Part of this work has been accepted at INFOCOM 2023 (Link paper: https://arxiv.org/pdf/2212.12121.pdf)
 
 
