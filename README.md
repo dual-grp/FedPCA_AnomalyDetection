@@ -284,3 +284,15 @@ python3 main.py --algorithm FedPE --dataset Ton --learning_rate 0.0001 --num_glo
 python3 main.py --algorithm FedPE --dataset Ton --learning_rate 0.0001 --num_global_iters 200 --dim 2 --clients 900 --subusers 0.1 --local_epochs 30 --exp_type N_clients
 python3 main.py --algorithm FedPE --dataset Ton --learning_rate 0.0001 --num_global_iters 200 --dim 2 --clients 1000 --subusers 0.1 --local_epochs 30 --exp_type N_clients
 <code></pre>
+
+# Citation
+If you find this repo useful, please cite our work.
+<pre></code>
+@article{nguyen2024federated,
+  title={Federated pca on grassmann manifold for iot anomaly detection},
+  author={Nguyen, Tung-Anh and Le, Long Tan and Nguyen, Tuan Dung and Bao, Wei and Seneviratne, Suranga and Hong, Choong Seon and Tran, Nguyen H},
+  journal={IEEE/ACM Transactions on Networking},
+  year={2024},
+  publisher={IEEE}
+}
+  <code></pre>
